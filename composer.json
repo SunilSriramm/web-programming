@@ -1,0 +1,11 @@
+{
+  "name": "workway/php-support",
+  "description": "Optional PHP runtime support for the WORKWAY project",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Workway\\": "src/"
+    }
+  }
+}
